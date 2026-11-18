@@ -13,14 +13,4 @@ These are special versions, modified by me, that run via an EXE file on PC. You 
 
 To run games on the emulator, either drag the game file onto 'Emulator.exe' or place it in the 'ROMS' directory - the emulator will load the first file alphabetically. The game window can be resized.
 
-CONTROLS:
-A - SELECT
-S - START
-T - GAME
-G - TIME
-X - A
-Z - B
-B - PAUSE/SET
-E - sound on/off
-W - reset
-Q - exit
+CONTROLS: A - SELECT, S - START, T - GAME, G - TIME, X - A, Z - B, B - PAUSE/SET, E - sound on/off, W - reset, Q - exit.
